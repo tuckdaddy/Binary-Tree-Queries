@@ -1,0 +1,22 @@
+
+What Part of the project are you currently working on?
+
+Part 1
+
+
+
+
+
+What can you do to be successful at this project?
+
+
+
+Go to office hours and read the book
+
+
+
+
+
+What can we do to help you be successful at this project?
+
+Im having trouble understanding the use of nodesToInsertAt. some clarification on its implementation would be great.
